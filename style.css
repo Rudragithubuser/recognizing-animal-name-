@@ -1,0 +1,22 @@
+h2{
+    background-color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    background-color: rgb(231, 226, 207);
+}
+button{
+    background-color: darkseagreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.copy_right_footer{
+    background-color: darkseagreen;
+}
+
+
+body{
+    background-color: rgb(103, 107, 107);
+}
